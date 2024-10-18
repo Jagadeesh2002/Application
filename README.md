@@ -35,12 +35,10 @@ This project implements a simple Rule Engine that uses an Abstract Syntax Tree (
 
 ### 1. Clone the Repository
 Clone this repository to your local machine using the command below:
----
 ```bash
 https://github.com/Jagadeesh2002/Application.git
----
 
-### 2. Navigate to the Project Directory
+**### 2. Navigate to the Project Directory **
 bash
 Copy code
 cd RuleEngineAST
