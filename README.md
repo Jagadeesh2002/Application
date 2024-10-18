@@ -40,7 +40,7 @@ Clone this repository to your local machine using the command below:
 https://github.com/Jagadeesh2002/Application.git
 
 
-2. Navigate to the Project Directory
+### 2. Navigate to the Project Directory
 bash
 Copy code
 cd RuleEngineAST
